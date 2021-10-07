@@ -1,2 +1,2 @@
 # Second Project
-Second project at Coder Foundry
+Second project. Learning Git.
