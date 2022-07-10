@@ -1,2 +1,2 @@
-# Second Project
-Second project. Learning Git.
+# First Project
+First project, a basic to-do app made with HTML, CSS and JavaScript
